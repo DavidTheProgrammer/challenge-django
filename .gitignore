@@ -3,3 +3,4 @@ __pycache__/
 service.db
 app/api/migrations/*
 node_modules/
+.idea/
